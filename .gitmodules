@@ -1,0 +1,6 @@
+[submodule "my_messenger"]
+	path = my_messenger
+	url = https://github.com/yinon77/my_messenger.git
+[submodule "my_notepad"]
+	path = my_notepad
+	url = https://github.com/yinon77/my_notepad.git
